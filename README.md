@@ -4,7 +4,7 @@ My name is Łukasz Florczak and I'm Frontend Developer.
 
 - 🔭 I’m currently working on **platforms for gamers** and **app for tutors**
 - 🌱 I’m currently learning **Nuxt 3** and **TypeScript**
-- 📫 You can reach me on <a href="https://twitter.com/lukaszflorczak" target="_blank">Twitter</a>, <a href="https://pl.linkedin.com/in/lukasz-florczak" target="_blank">LinkedIn</a> or <a href="https://instagram.com/lukaszflorczak" target="_blank">Instagram</a>
+- 📫 You can reach me on [Twitter](https://twitter.com/lukaszflorczak), [LinkedIn](https://pl.linkedin.com/in/lukasz-florczak) or [Instagram](https://instagram.com/lukaszflorczak)
 
 
 ### 🧮 My weekly development breakdown
