@@ -1,4 +1,14 @@
-### Hi there 👋
+# Hey there 👋
+
+My name is Łukasz Florczak and I'm Frontend Developer. 
+
+- 🔭 I’m currently working on **platforms for gamers** and **app for tutors**
+- 🌱 I’m currently learning **Nuxt 3** and **TypeScript**
+- 📫 You can reach me on [Twitter](https://twitter.com/lukaszflorczak), [LinkedIn](https://pl.linkedin.com/in/lukasz-florczak) or [Instagram](https://instagram.com/lukaszflorczak)
+
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **lukaszflorczak/lukaszflorczak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
