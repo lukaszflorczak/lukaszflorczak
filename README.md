@@ -4,19 +4,12 @@ My name is Łukasz Florczak and I'm Frontend Developer.
 
 - 🔭 I’m currently working on **platforms for gamers** and **app for tutors**
 - 🌱 I’m currently learning **Nuxt 3** and **TypeScript**
-- 📫 You can reach me on [Twitter](https://twitter.com/lukaszflorczak), [LinkedIn](https://pl.linkedin.com/in/lukasz-florczak) or [Instagram](https://instagram.com/lukaszflorczak)
+- 📫 You can reach me on <a href="https://twitter.com/lukaszflorczak" target="_blank">Twitter</a>, <a href="https://pl.linkedin.com/in/lukasz-florczak" target="_blank">LinkedIn</a> or <a href="https://instagram.com/lukaszflorczak" target="_blank">Instagram</a>
 
 
 ### 🧮 My weekly development breakdown
 
 <!--START_SECTION:waka-->
-```text
-Vue.js       3 hrs 59 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.73 % 
-TypeScript   3 hrs 39 mins   ██████░░░░░░░░░░░░░░░░░░░   24.56 % 
-JavaScript   2 hrs 43 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.23 % 
-JSON         2 hrs 14 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 % 
-SCSS         2 hrs 3 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 % 
-```
 <!--END_SECTION:waka-->
 
 <!--
