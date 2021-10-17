@@ -1,4 +1,4 @@
-# Hey there 👋
+# Hey folks 👋
 
 My name is Łukasz Florczak and I'm Frontend Developer. 
 
