@@ -12,12 +12,12 @@ My name is Łukasz Florczak and I'm Frontend Developer.
 <!--START_SECTION:waka-->
 
 ```text
-Vue.js       18 hrs 40 mins  ███████████████░░░░░░░░░░   60.32 %
-TypeScript   10 hrs 30 mins  ████████▒░░░░░░░░░░░░░░░░   33.92 %
-JSON         59 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 %
-SCSS         23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.28 %
-JavaScript   9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 %
-Bash         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Vue.js       21 hrs 38 mins  █████████████████░░░░░░░░   68.65 %
+TypeScript   8 hrs 35 mins   ██████▓░░░░░░░░░░░░░░░░░░   27.27 %
+JSON         44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.36 %
+JavaScript   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+SCSS         9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
+Bash         5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
