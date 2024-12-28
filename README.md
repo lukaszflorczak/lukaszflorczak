@@ -12,7 +12,9 @@ My name is Łukasz Florczak and I'm Frontend Developer.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Vue.js       0 secs          ████████████████████▓░░░░   83.01 %
+JSON         0 secs          ███▒░░░░░░░░░░░░░░░░░░░░░   13.57 %
+TypeScript   0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->
